@@ -80,5 +80,15 @@ namespace Musicas
         {
 
         }
+
+        private void imagenAlbum2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textoCanciones1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

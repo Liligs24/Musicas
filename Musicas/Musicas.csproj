@@ -37,7 +37,7 @@
       <HintPath>..\..\Musicproyect\Musicproyect\bin\Debug\Musicproyect.dll</HintPath>
     </Reference>
     <Reference Include="ReproductorMusicaComponentes">
-      <HintPath>..\..\ReproductorMusicaComponentes\ReproductorMusicaComponentes\obj\Debug\ReproductorMusicaComponentes.dll</HintPath>
+      <HintPath>..\..\ReproductorMusicaComponentes\ReproductorMusicaComponentes\bin\Debug\ReproductorMusicaComponentes.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
